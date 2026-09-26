@@ -23,5 +23,6 @@
                      }
                  ],
     "manifest":  "https://raw.githubusercontent.com/loom-softwares/loom-exemple-addon/main/addon.json",
-    "download":  "https://github.com/loom-softwares/loom-exemple-addon/releases/latest/download/loom-demo-addon.zip"
+    "download":  "https://github.com/loom-softwares/loom-exemple-addon/releases/latest/download/loom-demo-addon.zip",
+    "repository":  "https://github.com/loom-softwares/loom-exemple-addon"
 }
